@@ -17,5 +17,11 @@
         "path": "./themes/Claude Theme-color-theme.json"
       }
     ]
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/dnrm/claude-theme"
+  },
+  "publisher": "dnrm",
+  "license": "MIT"
 }
